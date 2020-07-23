@@ -31,5 +31,28 @@ A. MÔ TẢ VỀ Android Studio:
 - <a href= "https://ngocminhtran.com/giao-tiep-giua-fragments-va-activity/"> Giao tiếp giữa fragments và Activity</a>
 - <a href= "https://ngocminhtran.com/chay-thu-ung-dung/"> Chạy thử ứng dụng</a>
 
+### Chúng Ta tạo thêm 2 cái java
+
+![image](Untitled19.png)
+
+### Sau Khi Thực hiện xong và chạy máy ảo:
+
+![image](Untitled20.png)
+
+### Chạy Xong nhập dữ liệu từ bản TextView
+- SecondFragment sẽ hiện ra kết quả bên dưới như Hình
+
+![image](Untitled21.png)
+
 ### Kết luận
 - Trong bài này chúng ta đã tìm hiểu về fragment – một cơ chế cho phép thực thi theo phương pháp mô-đun trong Android. Có thể tìm hiểu thêm về fragment tại
+
+### Chúc Các Bạn Thành Công !!!
+
+### Bạn Có Thể Xem Bài Tiếp Theo:
+
+- <a href="https://github.com/ChanhMinions/MenuExample">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android!</a>
+
+![image](ezr.png)
+
+                                                                   Trần Phú , Ngày 23 tháng 7 Năm 2020
